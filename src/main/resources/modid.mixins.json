@@ -7,9 +7,6 @@
     "PacketByteBufMixin",
     "CustomPayloadS2CPacketMixin"
   ],
-  "client": [
-    "ItemModelsMixin"
-  ],
   "injectors": {
     "defaultRequire": 1
   }
